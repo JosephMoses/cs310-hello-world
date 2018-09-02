@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Joseph L. Moses
  */
 
 public class Class1 {
